@@ -100,6 +100,13 @@ const app = {
             duration: '05:16',
         },
         {
+            background: './assets/img/songs/tinhcatinhta.jpg',
+            name: 'Tình Ca Tình Ta',
+            singer: 'Cukak Remix',
+            pathSong: './assets/music/list-song/tinhcatinhta.m4a',
+            duration: '03:33',
+        },
+        {
             background: './assets/img/songs/5.webp',
             name: 'Lưu Số Em Đi',
             singer: 'Huỳnh Văn, V.P. Tiên, Đại Mèo Remix',
